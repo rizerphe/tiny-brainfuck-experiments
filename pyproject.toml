@@ -2,7 +2,7 @@
 name = "tiny-brainfuck"
 version = "0.1.0"
 description = ""
-authors = ["tiny-brainfuck"]
+authors = ["rizerphe <44440399+rizerphe@users.noreply.github.com>"]
 readme = "README.md"
 packages = [{include = "tiny_brainfuck"}]
 
